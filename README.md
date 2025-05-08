@@ -7,7 +7,7 @@ You can see the **Controls** and **Rules** below
 ## Demo 
 
 
-**Play** Click [https://ankitthakur22.github.io/ShootingGame_project/]
+**Play** Click [ ]
 
 
 
