@@ -7,7 +7,7 @@ You can see the **Controls** and **Rules** below
 ## Demo 
 
 
-**Play** Click [ ]
+**Play** Click [https://armaanprasad.github.io/ShootingGame2D/ ]
 
 
 
